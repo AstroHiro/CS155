@@ -1,2 +1,2 @@
-# CS155
-Files for CS155
+# CS155 Machine Learning
+Codes used for CS155
