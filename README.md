@@ -1,6 +1,6 @@
 # Caltech CS155 Machine Learning
 This repository contains codes used for Caltech CS155 projects.
-## [License](https://github.com/AstroHiro/cvstem/blob/master/LICENSE.txt)
+## [License](https://github.com/AstroHiro/CS155/blob/master/LICENSE.txt)
 MIT License
 
 Copyright (c) 2020 [Hiroyasu Tsukamoto](https://hirotsukamoto.com/)
