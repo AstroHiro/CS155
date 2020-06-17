@@ -1,5 +1,5 @@
-# Caltech CS155 Machine Learning
-This repository contains codes used for Caltech CS155 projects. See [here](https://github.com/AstroHiro/ncm) for one control theoretical application of the techniques to be learnt in this cource.
+# Caltech [CS155](http://www.yisongyue.com/courses/cs155/2020_winter/) Machine Learning
+This repository contains codes used for Caltech [CS155](http://www.yisongyue.com/courses/cs155/2020_winter/) projects. See [here](https://github.com/AstroHiro/ncm) for one control theoretical application of the techniques to be learnt in this cource.
 ## Caltech Honor Code
 **"No member of the Caltech community shall take unfair advantage of any other member of the Caltech community."**\
 The Honor Code is a fundamental principle of conduct for all members of the Caltech community. 
