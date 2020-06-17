@@ -1,7 +1,7 @@
 # Caltech CS155 Machine Learning
 This repository contains codes used for Caltech CS155 projects.
 ## Caltech Honor Code
-"No member of the Caltech community shall take unfair advantage of any other member of the Caltech community."
+**No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.**
 The Honor Code is a fundamental principle of conduct for all members of the Caltech community. 
 Please follow the instructions given by the lecturers, [Board of Control](https://deans.caltech.edu/HonorCode) (undergrads), [Graduate Honor Council](https://www.gradoffice.caltech.edu/current/community-standards/honor-code) (graduates) when using this repository.
 ## [License](https://github.com/AstroHiro/CS155/blob/master/LICENSE.txt)
